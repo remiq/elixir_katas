@@ -4,7 +4,7 @@ defmodule Kata.Mixfile do
   def project do
     [app: :kata2,
      version: "0.0.1",
-     elixir: "~> 0.14.3",
+     elixir: "~> 1.0.4",
      deps: deps]
   end
 
