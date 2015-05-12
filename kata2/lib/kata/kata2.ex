@@ -1,5 +1,5 @@
 defmodule Kata.Kata2 do
     def chop(needle, haystack) do
-        1
+        Kata.Chop1.chop(needle, haystack)
     end
 end
